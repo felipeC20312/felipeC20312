@@ -1,6 +1,11 @@
-<img src="https://media.licdn.com/dms/image/D4D16AQGTSbaCnxClfg/profile-displaybackgroundimage-shrink_350_1400/0/1710874983447?e=1717632000&v=beta&t=TVAGA9gju7AOSbUcyxot7uCPyU8EdLAvyGr0a_feH9M">
+<p aling="center">
+  <img src="../imgs/git_banner.png" />
+</p>
 
-# Felipe Caetano Valverde
+<p align="center">
+  <a href="https://github.com/DenverCoder1">
+    <img src="https://user-images.githubusercontent.com/20955511/199138068-0a7b7b75-a024-4f00-803f-30a19c5d1b2d.png" alt="Felipe Caetano Valverde" /></a>
+</p>
 
 **`Fullstack Web Developer`**
 
