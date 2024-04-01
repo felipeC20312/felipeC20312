@@ -10,7 +10,7 @@
 
 <p align="center">
   <img src="./imgs/rigth_dinosaur.png" width="150px"/>
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=felipeC20312&theme=dark&hide_border=true&border_radius=15&locale=pt_BR&date_format=j%20M%5B%20Y%5D&mode=weekly&card_width=500&background=272727&fire=DC4F23&stroke=383838&ring=DC4F23&currStreakLabel=DC4F23" alt="GitHub Streak" /></a>
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=felipeC20312&theme=dark&hide_border=true&border_radius=5&locale=pt_BR&date_format=j%20M%5B%20Y%5D&mode=weekly&card_width=500&background=272727&fire=DC4F23&stroke=383838&ring=DC4F23&currStreakLabel=DC4F23" alt="GitHub Streak" /></a>
   <img src="./imgs/left_dinosaur.png" width="150px"/>
 </p>
 
@@ -31,23 +31,16 @@ Pround founder of the Developers Hub community! The Developers Hub is more than 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="felipeC20312's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=felipeC20312&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=272727&title_color=dc4f23&icon_color=9b9b9b" height="180px"/></a>
   <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="felipeC20312's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=felipeC20312&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=272727&title_color=dc4f23&icon_color=9b9b9b&hide=Jupyter%20Notebook,Roff" height="180px"/></a>
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="felipeC20312's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=felipeC20312&bg_color=272727&color=9b9b9b&line=dc4f23&point=FFFFFF&hide_border=true"/></a>
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="felipeC20312's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=felipeC20312&bg_color=272727&color=9b9b9b&line=dc4f23&point=FFFFFF&hide_border=true" width="790px" /></a>
 </p>
 
 ----
 
   <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
 
-<details>
-  <summary><h2>--> A Brief Summary <--<h2/></sumary>
-  
-</details>
+<h3 align="center"> --> My Favorite Tools <-- </h3>
 
-<details> 
-  <summary><h2>--> My Favorite Tools <--</h2></summary>
-    
-  <!-- Some badges are from https://github.com/Ileriayo/markdown-badges -->
-  <h4>Programming and Markup Languages</h4>
+<h4>Programming and Markup Languages</h4>
 
   <p>
       <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Aassembly"><img alt="MIPS Assembly" src="https://custom-icon-badges.demolab.com/badge/Assembly-525252.svg?logo=asm-hex&logoColor=white"></a>
@@ -103,4 +96,3 @@ Pround founder of the Developers Hub community! The Developers Hub is more than 
       <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
       <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
   </p>
-</details>
