@@ -30,7 +30,7 @@ Pround founder of the Developers Hub community! The Developers Hub is more than 
   <!-- https://github.com/anuraghazra/github-readme-stats -->
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="felipeC20312's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=felipeC20312&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=272727&title_color=dc4f23&icon_color=9b9b9b" height="180px"/></a>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="felipeC20312's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=felipeC20312&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=272727&title_color=dc4f23&icon_color=9b9b9b&hide=Jupyter%20Notebook,Roff" height="180px"/></a>
+<!--   <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="felipeC20312's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=felipeC20312&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=272727&title_color=dc4f23&icon_color=9b9b9b&hide=Jupyter%20Notebook,Roff" height="180px"/></a> -->
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="felipeC20312's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=felipeC20312&bg_color=272727&color=9b9b9b&line=dc4f23&point=FFFFFF&hide_border=true" width="790px" /></a>
 </p>
 
