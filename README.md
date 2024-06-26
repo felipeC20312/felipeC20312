@@ -35,7 +35,7 @@ Pround founder of the Developers Hub community! The Developers Hub is more than 
 
 ----
 
-  <h3 align="center"> --> GitHub Profile Stats <-- </h3>
+  <h3 align="center"> --> Status do meu Perfil do GitHub - GitHub Profile Stats <-- </h3>
 
   <!-- https://github.com/anuraghazra/github-readme-stats -->
 <p align="center">
@@ -48,9 +48,9 @@ Pround founder of the Developers Hub community! The Developers Hub is more than 
 
   <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
 
-<h3 align="center"> --> My Favorite Tools <-- </h3>
+<h3 align="center"> --> Minhas Ferramentas Favoritas - My Favorite Tools <-- </h3>
 
-<h4>Programming and Markup Languages</h4>
+<h4>Linguagens de Programação e Marcação - Programming and Markup Languages</h4>
 
   <p>
       <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Aassembly"><img alt="MIPS Assembly" src="https://custom-icon-badges.demolab.com/badge/Assembly-525252.svg?logo=asm-hex&logoColor=white"></a>
@@ -68,7 +68,7 @@ Pround founder of the Developers Hub community! The Developers Hub is more than 
       <a href="https://github.com/search?q=user%3ADenverCoder1+language%3AtypeScript"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC.svg?logo=typescript&logoColor=white"></a>
   </p>
 
-  <h4>Frameworks and Libraries</h4>
+  <h4>Frameworks e Bibliotecas - Frameworks and Libraries</h4>
 
   <p>
       <a href="#"><img alt="Arduino" src="https://img.shields.io/badge/-Arduino-00979D?logo=Arduino&logoColor=white"></a>
@@ -80,7 +80,7 @@ Pround founder of the Developers Hub community! The Developers Hub is more than 
       <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB"></a>
   </p>
 
-  <h4>Databases and Cloud Hosting</h4>
+  <h4>Banco de Dados e Hosting em Núvel - Databases and Cloud Hosting</h4>
 
   <p>
       <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-327FC7.svg?logo=github&logoColor=white"></a>
@@ -90,7 +90,7 @@ Pround founder of the Developers Hub community! The Developers Hub is more than 
       <a href="#"><img alt="PostgreSQL" src ="https://img.shields.io/badge/PostgreSQL-316192.svg?logo=postgresql&logoColor=white"></a>
   </p>
 
-  <h4>Software and Tools</h4>
+  <h4>Programas e Ferramentas - Software and Tools</h4>
 
   <p>
       <a href="#"><img alt="Adobe" src="https://img.shields.io/badge/Adobe-FF0000.svg?logo=adobe&logoColor=white"></a>
