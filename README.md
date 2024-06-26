@@ -15,6 +15,16 @@
 </p>
 
 ----
+[ PT-BR ]
+
+**🔗 Desenvolvedor Web FullStack** **✨ Designer UX e UI** **🏆 Campeão Mundial de Robótica FLL** **🎖️ Campeão Brasileiro de Robótica FTC**
+
+Olá Mundo! Sou um entusiasta de tecnologia apaixonado por desenvolvimento web e robótica, sempre buscando ampliar meus horizontes e contribuir para a comunidade de desenvolvedores. Como Desenvolvedor Front-end, minha jornada é impulsionada pela criação de experiências excepcionais para os usuários. Trabalho principalmente com tecnologias como React, Flutter, Next.JS, Gatsby e Vite, explorando cada uma delas para criar interfaces responsivas e dinâmicas.
+
+Orgulhoso fundador da comunidade Developers Hub! O Developers Hub é mais do que apenas um espaço, é um lar para desenvolvedores aspirantes e experientes se conectarem, compartilharem conhecimentos e encontrarem suporte mútuo em suas jornadas profissionais. Sinta-se à vontade para se juntar a esta comunidade acolhedora e colaborativa! Se você está procurando uma boa fonte de conhecimento, confira minha comunidade no Discord "[DevelopersHub](https://discord.gg/3vAZuNnM)"
+
+----
+[ EN ]
 
 **`🔗 FullStack Web Developer`** **`✨ UX and UI Designer`** **`🏆 FLL Robotics World Champion`** **`🎖️ FTC Robotics Brasilian Champion`**
 
