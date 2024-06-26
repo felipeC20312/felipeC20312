@@ -17,7 +17,7 @@
 ----
 [ PT-BR ]
 
-**🔗 Desenvolvedor Web FullStack** **✨ Designer UX e UI** **🏆 Campeão Mundial de Robótica FLL** **🎖️ Campeão Brasileiro de Robótica FTC**
+**🔗` Desenvolvedor Web FullStack`** **`✨ Designer UX e UI`** **`🏆 Campeão Mundial de Robótica FLL`** **`🎖️ Campeão Brasileiro de Robótica FTC`**
 
 Olá Mundo! Sou um entusiasta de tecnologia apaixonado por desenvolvimento web e robótica, sempre buscando ampliar meus horizontes e contribuir para a comunidade de desenvolvedores. Como Desenvolvedor Front-end, minha jornada é impulsionada pela criação de experiências excepcionais para os usuários. Trabalho principalmente com tecnologias como React, Flutter, Next.JS, Gatsby e Vite, explorando cada uma delas para criar interfaces responsivas e dinâmicas.
 
