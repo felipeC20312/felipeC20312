@@ -9,9 +9,9 @@
 </p>
 
 <p align="center">
-  <img src="./imgs/rigth_dinosaur.png" width="150px"/>
+  <img src="./imgs/left_ducky.svg" width="150px"/>
   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=felipeC20312&theme=dark&hide_border=true&border_radius=5&locale=pt_BR&date_format=j%20M%5B%20Y%5D&mode=weekly&card_width=500&background=272727&fire=DC4F23&stroke=383838&ring=DC4F23&currStreakLabel=DC4F23" alt="GitHub Streak" /></a>
-  <img src="./imgs/left_dinosaur.png" width="150px"/>
+  <img src="./imgs/rigth_ducky.svg" width="150px"/>
 </p>
 
 ----
