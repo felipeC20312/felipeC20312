@@ -9,9 +9,9 @@
 </p>
 
 <p align="center">
-  <img src="./imgs/left_ducky.svg" width="150px"/>
+  <img src="./imgs/left_duck.png" width="150px"/>
   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=felipeC20312&theme=dark&hide_border=true&border_radius=5&locale=pt_BR&date_format=j%20M%5B%20Y%5D&mode=weekly&card_width=500&background=272727&fire=DC4F23&stroke=383838&ring=DC4F23&currStreakLabel=DC4F23" alt="GitHub Streak" /></a>
-  <img src="./imgs/rigth_ducky.svg" width="150px"/>
+  <img src="./imgs/rigth_duck.png" width="150px"/>
 </p>
 
 ----
@@ -41,7 +41,7 @@ Pround founder of the Developers Hub community! The Developers Hub is more than 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="felipeC20312's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=felipeC20312&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=272727&title_color=dc4f23&icon_color=9b9b9b" height="180px"/></a>
   <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="felipeC20312's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=felipeC20312&langs_count=5&layout=compact&theme=react&hide_border=true&bg_color=272727&title_color=dc4f23&icon_color=9b9b9b&hide=Jupyter%20Notebook,Roff" height="180px"/></a>
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="felipeC20312's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=felipeC20312&bg_color=272727&color=9b9b9b&line=dc4f23&point=FFFFFF&hide_border=true" width="790px" /></a>
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="felipeC20312's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=felipeC20312&bg_color=272727&color=9b9b9b&line=dc4f23&point=FFFFFF&hide_border=true" width="820px" /></a>
 </p>
 
 ----
