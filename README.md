@@ -82,7 +82,7 @@ Pround founder of the Developers Hub community! The Developers Hub is more than 
       <a href="#"><img alt="Material Design" src="https://img.shields.io/badge/Material%20Design-0081CB.svg?style=for-the-badge&logo=material-design&logoColor=white"></a>
       <a href="#"><img alt="NumPy" src="https://img.shields.io/badge/Numpy-013243.svg?style=for-the-badge&logo=numpy&logoColor=white"></a>
       <a href="#"><img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=white"></a>
-      <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"></a>
+      <a href="#"><img alt="React Native" src="https://img.shields.io/badge/React%20Native-20232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"></a>
   </p>
 
   <h4>Banco de Dados e Hosting em Núvel - Databases and Cloud Hosting</h4>
