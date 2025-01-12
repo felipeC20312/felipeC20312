@@ -9,9 +9,9 @@
 </p>
 
 <p align="center">
-  <img src="./imgs/left_duck.png" width="130px"/>
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=felipeC20312&theme=dark&hide_border=true&border_radius=5&date_format=j%20M%5B%20Y%5D&mode=weekly&exclude_days=Sun&card_width=520&card_height=200&background=272727&fire=DC4F23&stroke=383838&ring=DC4F23&currStreakLabel=DC4F23" alt="GitHub Streak" /></a>
-  <img src="./imgs/rigth_duck.png" width="130px"/>
+  <img src="./imgs/left_duck.png" width="120px"/>
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=felipeC20312&theme=dark&hide_border=true&border_radius=5&date_format=j%20M%5B%20Y%5D&mode=weekly&exclude_days=Sun&card_width=500&card_height=200&background=272727&fire=DC4F23&stroke=383838&ring=DC4F23&currStreakLabel=DC4F23" alt="GitHub Streak" /></a>
+  <img src="./imgs/rigth_duck.png" width="120px"/>
 <!--   &locale=pt_BR -->
 </p>
 
