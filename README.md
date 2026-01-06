@@ -36,7 +36,17 @@ Pround founder of the Developers Hub community! The Developers Hub is more than 
 
 ----
 
-  <h3 align="center"> --> Status do meu Perfil do GitHub - GitHub Profile Stats <-- </h3>
+<h3 align="center"> Status do Perfil CodeWars - CodeWars Stats </h3>
+
+<p align="center">
+  <a href="https://www.codewars.com/users/felipeC20312">
+    <img src="https://www.codewars.com/users/felipeC20312/badges/large"/>
+  </a>
+</p>
+
+----
+
+  <h3 align="center"> Status do meu Perfil do GitHub - GitHub Profile Stats </h3>
 
   <!-- https://github.com/anuraghazra/github-readme-stats -->
   <p align="center">
