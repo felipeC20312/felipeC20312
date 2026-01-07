@@ -36,12 +36,16 @@ Pround founder of the Developers Hub community! The Developers Hub is more than 
 
 ----
 
-<h3 align="center"> Status do Perfil CodeWars - CodeWars Stats </h3>
+<h3 align="center"> LeetCode & CodeWars </h3>
 
 <p align="center">
   <a href="https://www.codewars.com/users/felipeC20312">
     <img src="https://www.codewars.com/users/felipeC20312/badges/large"/>
   </a>
+</p>
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/FelipeCaetanoDev"/>
 </p>
 
 ----
